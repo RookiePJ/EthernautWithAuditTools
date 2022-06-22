@@ -1,9 +1,14 @@
 # EthernautWithAuditTools
 Running various audit tools on the open zepplin ethernaut challenges.
 
-01-Fallback
+## Overview
 
-Credit: based on the project code provided by Tony@maAPPsDEV -> https://github.com/maAPPsDEV/fallback-attack
+### Tools Used
+Slither, Echidna, and (maybe) Mantcore
+
+### 01-Fallback
+
+Credit: based on the original project developed by __Tony@maAPPsDEV__ (https://github.com/maAPPsDEV/fallback-attack)
 
 To Do...
 
